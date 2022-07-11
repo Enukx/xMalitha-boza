@@ -32,7 +32,7 @@
 
 ## 🔗 Connect with me
 
-<a href="http://xmalitha.epizy.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/975/975645.png" alt="lakshithaxd" height="40" width="40" /></a>
+<a href="http://xmalitha.epizy.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/975/975645.png" alt="lakshithaxd" height="35" width="35" /></a>
 <a href="https://t.me/Malitha_Mihiranga" target="_blank"><img align="center" src="https://img.icons8.com/color/2x/telegram-app--v1.png" alt="Telegram" height="40" width="40" /></a>
 <a href="https://dev.to/malithamihiranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imdarklk" height="30" width="40" /></a>
 <a href="https://twitter.com/malithamihirang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdarkk0" height="30" width="40" /></a>
