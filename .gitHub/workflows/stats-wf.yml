@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ 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}}
 
           # Options
           user: xMalitha
