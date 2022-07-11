@@ -1,0 +1,20 @@
+name: Add metrics (activity)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  activity-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: itz-fork.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          plugin_activity: yes
+          base: ""
+          plugin_activity_visibility: public
+          plugin_activity_skipped: Itz-fork
+          plugin_activity_filter: push, issue, pr, release, comment
